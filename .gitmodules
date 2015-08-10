@@ -1,10 +1,10 @@
 [submodule "theme_biztech"]
 	path = theme_biztech
-	url = https://github.com/Biztech-Consultancy/odoo-addons-8.0.git
+	url = https://github.com/shingonoide/odoo_theme_biztech.git
 	branch = 8.0
 [submodule "theme_worthy"]
 	path = theme_worthy
-	url = https://github.com/mgielissen/odoo_theme_worthy.git
+	url = https://github.com/shingonoide/odoo_theme_worthy.git
 [submodule "theme_clean_sfl"]
 	path = theme_clean_sfl
-	url = https://github.com/savoirfairelinux/odoo-cms-theme-exploration.git
+	url = https://github.com/shingonoide/odoo_theme_bootflat.git
